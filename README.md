@@ -29,3 +29,10 @@ My goal is to create impactful digital solutions and grow as a professional deve
 ### Database
 - MongoDB
 - MySQL
+
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
