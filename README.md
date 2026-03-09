@@ -13,3 +13,11 @@ I enjoy building modern, responsive, and scalable web applications while continu
 My goal is to create impactful digital solutions and grow as a professional developer.
 
 ---
+## 🛠️ Technologies Used
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Tailwind CSS
