@@ -25,3 +25,7 @@ My goal is to create impactful digital solutions and grow as a professional deve
 ### Backend
 - Node.js
 - Express.js
+
+### Database
+- MongoDB
+- MySQL
