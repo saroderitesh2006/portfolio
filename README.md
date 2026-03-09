@@ -21,3 +21,7 @@ My goal is to create impactful digital solutions and grow as a professional deve
 - JavaScript
 - React
 - Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
