@@ -36,3 +36,10 @@ My goal is to create impactful digital solutions and grow as a professional deve
 - GitHub
 - VS Code
 - Postman
+
+## 📂 Projects
+
+### 1️⃣ E-Commerce Website
+A full-stack shopping platform with authentication and cart functionality.
+
+**Tech Stack:** React, Node.js, MongoDB
